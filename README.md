@@ -9,13 +9,13 @@ This is the frontend for **FlavorAI**, built with **Next.js (App Router)**.
 Create a `.env.local` file and add:
 
 ```env
-NEXT_PUBLIC_API_URL="http://localhost:5000"
+API_URL="http://localhost:5000"
 ```
 
 If your backend is deployed:
 
 ```env
-NEXT_PUBLIC_API_URL="https://your-backend-domain.com"
+API_URL="https://your-backend-domain.com"
 ```
 
 ---
