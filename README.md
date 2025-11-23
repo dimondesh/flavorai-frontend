@@ -6,7 +6,7 @@ This is the frontend for **FlavorAI**, built with **Next.js (App Router)**.
 
 ## 🌍 1. Set the API URL
 
-Create a `.env.local` file and add:
+Create a `.env` file and add:
 
 ```env
 API_URL="http://localhost:5000"
